@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maetzemax
 - 👀 I’m interested in sports and programming
-- 🌱 I’m currently learning swift and kotlin
+- 🍎 iOS Develeoper (Swift/SwiftUI)
 - 📫 How to reach me max.maetze@develappers.de
 
 <!---
